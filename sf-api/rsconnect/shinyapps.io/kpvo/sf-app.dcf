@@ -1,0 +1,10 @@
+name: sf-app
+title:
+username: kpvo
+account: kpvo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14875418
+bundleId:
+url: https://kpvo.shinyapps.io/sf-app/
+version: 1
