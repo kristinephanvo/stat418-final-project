@@ -6,8 +6,8 @@
 
 #name is account name, get both your authentication token and secret in your account
 rsconnect::setAccountInfo(name='kpvo',
-              token='5BC2CFF06242E2B7D00C57CFB71C6D85',
-              secret='fE+YH9J+kMls9rgtFaHY748/5KRHTIDzrAn67Xu1')
+              token='****',
+              secret='****')
 
 setwd("~/sf-api/shinyapp")
 library(rsconnect)
